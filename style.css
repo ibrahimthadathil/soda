@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+}
+.main-sheet{
+    width: 100%;
+}
+.head{
+    width: 100%;
+    height: 70px;
+    background: #0a0a0a;
+    position: fixed;
+    z-index: 3;
+}
+.logo{
+    width: 25%;
+    height: 70px;
+    float: left;
+}
+.navbar{
+    width: 75%;
+    height: 70px;
+    float: left;
+}
+.img{
+    padding: 22px 36px;
+  width: 120px;
+  
+}
+.nav{
+    list-style-type: none;
+    color: #fff;
+    
+    
+}
+li{
+    float:left ;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+  padding: 9px 17px;
+}
+li:hover{
+    color: #e53f27;
+    cursor: pointer;
+}
+.mid{
+    max-width: 100%;
+    height: 600px;
+}
+.img-size{
+    width: 100%;
+    height: 100%;
+}
+.img-logo{
+    width: 50%;
+    height: 750px;
+    background: rgb(248, 161, 32);
+    float: left;
+}
+.note{
+    width: 50%;
+    height: 750px;
+    float: left;
+ 
+}
+.im-lo{
+    position: absolute;
+    width: 160px;
+    padding: 105px 248px;
+    z-index: 1;
+}
+.text{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: unset
+}
+.text2{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.align{
+    
+    padding: 133px 125px;
+}
+.footer{
+    width: 100%;
+    height: 267px;
+    
+    margin-top: -4px;
+}
+.footer-bar{
+    width: 90%;
+    height: 90%;
+   
+    padding: 13px 64px;
+}
+.bar1{
+    width: 32%;
+    height: 100%;
+    
+    float: left;
+}
+.bar2{
+    width: 35%;
+    height: 80%;
+    
+    float: left;
+    padding: 24px 0px;
+}
+.bar3{
+    width: 33%;
+    height: 100%;
+    float: left;
+    line-height: 10px;
+  padding-top: 28px;
+}
+.footer-li{
+    font-family: 'Montserrat', sans-serif;
+    padding: 31px 49px;
+    font-size: 15px;
+                                                                                                  
+}
+.b2{
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: bold
+   
+}
+.b2-1{
+   
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
+.b2:hover{
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.site{
+    font-size: 14px;
+    font-weight: bold
+}
+.site:hover{
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.im-con{
+    width: 25px;
+}
+.im-con:hover{
+    
+    cursor: pointer;
+}
+.over-text{
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 60px;
+    font-size: 85px;
+
+}
